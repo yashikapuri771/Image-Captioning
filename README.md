@@ -1,7 +1,7 @@
 # Streamlit App for Image Captioning
 
 ## Description
-Welcome to the *Image Caption Generator** Streamlit app! This is a web-based application built using Python and Streamlit to https://imgcap.streamlit.app/ . This project leverages powerful machine learning and data visualization tools to provide an intuitive and interactive experience for the users.
+Welcome to the *Image Caption Generator** Streamlit app!  This project leverages powerful machine learning and data visualization tools to provide an intuitive and interactive experience for the users.
 
 [---](https://github.com/user-attachments/assets/28a5467e-8f5f-4db5-8fa7-55ea48f874a3)
 
